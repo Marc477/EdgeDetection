@@ -11,6 +11,3 @@ Examples:
 
 EdgeDetection.exe clown.pgm 35
 EdgeDetection.exe cameraman.pgm 20
-
-
-This will compute the edge detection for the 3 algorithms
